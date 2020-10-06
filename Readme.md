@@ -38,5 +38,3 @@ I am a passionate self-taught programmer from United Arab Emirates, Dubai.
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
 <br />
-
-# Credits DARKBOY
